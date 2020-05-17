@@ -1,0 +1,7 @@
+- name: AWS
+  percentage: 90
+  color: info
+
+- name: PyTorch
+  percentage: 90
+  color: success
