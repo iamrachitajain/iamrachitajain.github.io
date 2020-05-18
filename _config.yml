@@ -2,7 +2,7 @@
 title               : Rachita Jain
 description         : >-
                       "I hustle all night!"
-baseurl             : '/iamrachitajain'                    # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : '/iamrachitajain.github.io'                    # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : iamrachitajain/iamrachitajain.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
