@@ -1,17 +1,9 @@
 - title: Student, University of Pittsburgh 
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  from: 2019
+  to: Anticipated Graduation Dec 2020 
+  description: Relevant Coursework &#58; Deep Learning (CMU), Data Mining, Data Analytics, Data Visualization, Machine Learning, Linear Algebra
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Machine Learning Engineer, Wipro Technologies, India
+  from: 2017
+  to: 2019
+  description: Worked on the Contract Intelligence solution for Wipro HOLMES leveraging Deep Learning, and NLP concepts.
