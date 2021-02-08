@@ -1,3 +1,7 @@
+- name: Tableau
+  percentage: 99
+  color: info
+
 - name: AWS
   percentage: 90
   color: info

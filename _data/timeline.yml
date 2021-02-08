@@ -6,12 +6,7 @@
 - title: Data Analyst
   from: Jun 2020
   to: Present
-  description: Predicted genders from the author names of published research papers using a Bi-LSTM network in PyTorch.
-- Used statistical tools like Decision Trees, Clustering, Bayesian Analysis with Python to gain insights into the gender-based disparities in academic research during the Covid-19 pandemic.
-- Reported the findings on the salary, ethnicity, race-based trends among the female researchers at the University of Pittsburgh.
-- Collected and mined the data from NSF repositories to deeply study the Employment trends over the last decade across the US in various sectors based on ethnicity, race, and citizenship status of graduate and postgraduate students.
-- Analyzed and reported the finding on the field-based research funding from the government organizations (NASA, NSF, DOD, DOE, HHS) to the top 100 Institutions of the US. This helped Pitt create policies to increase research in the less active fields to pump up the findings.
-- Created interactive dashboards and visualizations using Tableau and Seaborn to display for the Pitt SVC Website.
+  description: Predicted genders from the author names of published research papers using a Bi-LSTM network in PyTorch. Used statistical tools like Decision Trees, Clustering, Bayesian Analysis with Python to gain insights into the gender-based disparities in academic research during the Covid-19 pandemic.
 
 - title: Machine Learning Engineer, Wipro Technologies, India
   from: 2017
